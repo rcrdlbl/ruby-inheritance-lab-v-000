@@ -1,4 +1,4 @@
 require_relative "../lib/user.rb"
-class Student < user
+class Student < User
 
 end
